@@ -560,6 +560,15 @@ aside span.categories ul li:nth-of-type(n+2):before { content: ', '; }
 	margin-bottom: .5em;
 }
 
+#single article .contenu-principal .alignleft {
+	float:left;
+}
+
+#single article .contenu-principal .alignright {
+        float:right;
+	margin-right:100px;
+}
+
 
 /* Mise en forme des dernières publications */
 
