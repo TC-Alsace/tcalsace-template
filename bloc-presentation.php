@@ -29,7 +29,7 @@
     '[ics_events
     url="https://www.google.com/calendar/ical/'.
     'c6onmmlfu8h34a6mh8mmrh2q48%40group.calendar.google.com/public/basic.ics"
-    nb="2" locale="fr_FR"
+    nb="2" locale="fr_FR.utf8"
     noeventsmsg="Pas d\'événement prévu pour l\'instant."]'
 ); ?>
     </div>
