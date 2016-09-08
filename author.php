@@ -13,15 +13,15 @@
 		
 		<div id="content-area">
 		
-		<?php if ( have_posts() ) :
-	
-			while ( have_posts() ) : the_post();
-			
-				get_template_part( 'content', get_post_format() );
-			
-			endwhile;
-	
-		else : ?>
+		<?php if (have_posts()) :
+
+            while (have_posts()) : the_post();
+
+                get_template_part('content', get_post_format());
+
+            endwhile;
+
+        else : ?>
 		
 			<p id="aucun-article">À l'heure actuelle, cet auteur n'a jamais rédigé d'articles.</p>
 		
