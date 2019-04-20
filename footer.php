@@ -1,8 +1,8 @@
 	</div><!-- #main -->
-	
+
 	<footer id="site-footer" role="contentinfo">
 		<h5>Association TC Alsace <span>think tank citoyen et progressiste strasbourgeois</h5>
-		
+
 		<section id="mentions-legales">
 			<p>TC Alsace regroupe aujourd'hui une jeunesse engagée, plurale dans ses opinions, dans ses compétences, et dans ses origines, vers un objectif commun : rendre la ville de demain attractive économiquement, juste socialement, viable énergiquement, accessible démocratiquement, et susceptible à tout à chacun de se l'approprier dans la diversité de ses usages.<p>
 			<h6>Nos coordonnées</h6>
@@ -13,7 +13,7 @@
 				<li><a href="mailto:contact@tc-alsace.eu">contact@tc-alsace.eu</a></li>
 			</ul>
 		</section><!--
-		
+
 	 --><section id="contact">
 			<h6>Contactez-nous</h6>
 			<form action="http://tc-alsace.eu/contact/#contact-form-1968" method="post" class="colonne-formulaire">
@@ -38,7 +38,7 @@
 			</form>
 		</section>
 	</footer><!-- #site-footer -->
-	
+
 	<?php wp_footer(); ?>
 </body>
 </html>

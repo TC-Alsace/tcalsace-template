@@ -20,7 +20,7 @@
 				<?php bloginfo('name'); ?>
 			</a>
 		</h1>
-		
+
 		<div id="socialsearch">
 			<a href="http://www.facebook.com/tc.alsace/" class="facebook" title="Aller vers le Facebook TC Alsace">&#xe801;</a>
 			<a href="http://twitter.com/tcalsace/" class="twitter" title="Aller vers le Twitter TC Alsace">&#xe811;</a>
@@ -28,9 +28,9 @@
 			<!--<?php get_search_form(); ?>-->
 		</div>
 	</header>
-	
+
 	<div id="main">
-	
+
 		<?php
 			$parametres = array('theme_location'	=>	'primaire',
 								'container'			=>	'nav',
