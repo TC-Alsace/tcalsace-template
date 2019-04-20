@@ -16,7 +16,7 @@
 
 	 --><section id="contact">
 			<h6>Contactez-nous</h6>
-			<form action="http://tc-alsace.eu/contact/#contact-form-1968" method="post" class="colonne-formulaire">
+			<form action="https://tc-alsace.eu/contact/#contact-form-1968" method="post" class="colonne-formulaire">
 				<ul>
 					<li>
 						<label for="g1968-nom">Votre nom :</label>

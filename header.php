@@ -6,7 +6,7 @@
 	<title><?php bloginfo('name'); ?> | <?php is_home() ? bloginfo('description') : wp_title(''); ?></title>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic&subset=latin-ext' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic&subset=latin-ext' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" media="all" href="<?php echo bloginfo('stylesheet_url'); ?>">
 	<!--[if lt IE 9]>
 	<script src="<?php echo get_template_directory_uri(); ?>/scripts/html5shiv.js"></script>
@@ -22,9 +22,9 @@
 		</h1>
 
 		<div id="socialsearch">
-			<a href="http://www.facebook.com/tc.alsace/" class="facebook" title="Aller vers le Facebook TC Alsace">&#xe801;</a>
-			<a href="http://twitter.com/tcalsace/" class="twitter" title="Aller vers le Twitter TC Alsace">&#xe811;</a>
-			<a href="http://www.tc-alsace.eu/forums/" class="forums" title="Aller vers les forums TC Alsace">&#xe86d;</a>
+			<a href="https://www.facebook.com/tc.alsace/" class="facebook" title="Aller vers le Facebook TC Alsace">&#xe801;</a>
+			<a href="https://twitter.com/tcalsace/" class="twitter" title="Aller vers le Twitter TC Alsace">&#xe811;</a>
+			<a href="https://www.tc-alsace.eu/forums/" class="forums" title="Aller vers les forums TC Alsace">&#xe86d;</a>
 			<!--<?php get_search_form(); ?>-->
 		</div>
 	</header>
