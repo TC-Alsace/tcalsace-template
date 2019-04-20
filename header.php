@@ -16,7 +16,7 @@
 <body <?php body_class(); ?>>
 	<header id="top" role="banner">
 		<h1 id="logo">
-			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
+			<a href="<?php echo esc_url(home_url('/')); ?>" rel="home">
 				<?php bloginfo('name'); ?>
 			</a>
 		</h1>
@@ -32,14 +32,14 @@
 	<div id="main">
 
 		<?php
-			$parametres = array('theme_location'	=>	'primaire',
-								'container'			=>	'nav',
-								'container_class'	=>	'navigation',
-								'container_id'		=>	'nav-primaire',
-								'menu_class'		=>	'nav-menu',
-								'echo'				=>	true,
-								'fallback_cb'		=>	false,
-								'items_wrap'		=>	'<ul id="%1$s" class="%2$s">%3$s</ul>',
-								'depth'				=>	0 );
-			wp_nav_menu($parametres);
-		?>
+            $parametres = ['theme_location'            => 'primaire',
+                                'container'            => 'nav',
+                                'container_class'      => 'navigation',
+                                'container_id'         => 'nav-primaire',
+                                'menu_class'           => 'nav-menu',
+                                'echo'                 => true,
+                                'fallback_cb'          => false,
+                                'items_wrap'           => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+                                'depth'                => 0, ];
+            wp_nav_menu($parametres);
+        ?>

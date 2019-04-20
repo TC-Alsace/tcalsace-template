@@ -1,14 +1,15 @@
 <?php
 /**
- * Bloc de présentation de la page d'accueil
+ * Bloc de présentation de la page d'accueil.
  *
  * PHP Version 5.4
  *
  * @category Theme
- * @package  TCAlsace
+ *
  * @author   Damien Senger <mail@damiensenger.me>
  * @author   Pierre Rudloff <contact@rudloff.pro>
  * @license  GPL https://raw.githubusercontent.com/TC-Alsace/tcalsace-template/master/LICENSE
+ *
  * @link     https://github.com/TC-Alsace/tcalsace-template
  * */
 ?>
