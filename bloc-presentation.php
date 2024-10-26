@@ -23,15 +23,5 @@
         membres de TC&nbsp;Alsace, sommes convaincus que l’intérêt des citoyens
         ne pourra qu’être suscité par la démonstration du caractère concret
         et constructif du débat politique.</p>
-    </div><!--
- --><div id="next">
-        <h2 class="lettrine">Prochaines dates</h2>
-<?php echo do_shortcode(
-    '[ics_events
-    url="https://www.google.com/calendar/ical/'.
-    'c6onmmlfu8h34a6mh8mmrh2q48%40group.calendar.google.com/public/basic.ics"
-    nb="2" locale="fr_FR.utf8"
-    noeventsmsg="Pas d\'événement prévu pour l\'instant."]'
-); ?>
-    </div>
+    </div
 </section>
